@@ -49,6 +49,82 @@ Black Ochre Data Labs
 Telethon Kids Institute & 
 Australian National University 
 
+
+---
+
+# About me
+
+- Grew up on Noongar Banyjima lands (SW Western Australia and the Pilbra)
+    - Dumbleyung, Booyup Brook, Mundijong, Tom Price
+
+![w:10cm left](./figures/2014-jan-dry-lake-dumbleyung.jpeg) ![w:10cm ](./figures/Karijini8.jpeg) ![w:7cm](https://visitbunburygeographe.com.au/wp-content/uploads/2018/02/Boyup-Brook.jpg)
+
+---
+
+# About me
+
+- Grew up on Noongar lands (SW Western Australia and the Pilbra)
+    - Dumbleyung, Booyup Brook, Mundijong, Tom Price
+- Went to High School and University in Perth
+- PhD in Bioinformatics & Plant Genomics and a BSc (hons) in Molecular Biology. Both at Murdoch University
+
+---
+
+# About me
+
+- Grew up on Noongar lands (SW Western Australia and the Pilbra)
+    - Dumbleyung, Booyup Brook, Mundijong, Tom Price
+- Went to High School and University in Perth
+- Have a PhD in Bioinformatics & Plant Genomics and a BSc (hons) in Molecular Biology
+
+
+---
+
+# Previously life'(s)
+
+1. Postdoc at the University of Zurich (2009-2012)
+
+![w:12cm](https://upload.wikimedia.org/wikipedia/commons/9/9f/Z%C3%BCrich_-_Weinegg_Botanischer_Garten_IMG_1863.jpg) ![w:11cm](https://media.istockphoto.com/photos/view-from-mt-uetliberg-in-switzerland-in-springtime-picture-id940792146?k=20&m=940792146&s=612x612&w=0&h=7R_zNLILzEEj7E1aPGYNApr8vXBaHN7Q6BAOORRCDy0=)
+
+---
+
+# Previously life'(s)
+
+2. Next-generation Sequencing Analyst & Bioinformatics Officer (2012)
+    - Australian Genome Research Facility (AGRF), Brisbane
+    - Primarily early Illumina and 454 QC
+
+3. Postdoc at ACAD! (2013-16)
+
+![w:12cm bg left](./figures/IMG_2645.png)
+
+
+
+---
+
+# Previously life'(s)
+
+4. Bioinformatics core-facility manager at Robinson Research Institute (University of Adelaide) & Bioinformatics Hub (2016-2018)
+
+5. SAHMRI & Faculty of Health & Medical Sciences Bioinformatics group leader (2018-2019)
+
+6. SAGC Bioinformatics Lead (2019-2021)
+
+---
+
+# Current life
+## Black Ochre Data Labs
+
+- Public Health & Bioinformatics group
+- Based in Adelaide & Perth
+- Focused on: 
+    - Developing Precision Health approaches for Aboriginal and Torres Strait Islanders
+    - Complex diseases that impact Indigenous Australians, including Type 2 Diabetes, Cardiovascular Disease, Chronic/Diabetic Kidney Disease
+
+---
+
+![w:40cm](https://pbs.twimg.com/media/FXC2y0taIAA29mE?format=jpg&name=4096x4096)
+
 ---
 
 # The Team
@@ -79,62 +155,12 @@ Australian National University
 - Azure Hermes
 - Hardip Patel
 
-![w:4cm h:3cm](https://www.telethonkids.org.au/globalassets/media/images/type-of-image/logos/tki-logo-large.jpg) ![w:4cm h:3cm](https://brandonbiocatalyst.com/wp-content/uploads/2019/07/33.JCSMR-lock-up-e1562660623739.jpg) ![w:5cm h:4cm](https://www.prostatehealth.org.au/wp-content/uploads/2017/03/LogoSAHMRI1.jpg)
+![w:4cm h:3cm](https://www.telethonkids.org.au/globalassets/media/images/type-of-image/logos/tki-logo-large.jpg) ![w:5cm  h:4cm](https://brandonbiocatalyst.com/wp-content/uploads/2019/07/33.JCSMR-lock-up-e1562660623739.jpg) 
 
 </div>
 </div>
 
 <!-- footer: "" -->
-
----
-
-# About me
-
-- Grew up on Noongar Banyjima lands (SW Western Australia and the Pilbra)
-    - Dumbleyung, Booyup Brook, Mundijong, Tom Price
-
-![w:10cm left](./figures/2014-jan-dry-lake-dumbleyung.jpeg) ![w:10cm ](./figures/Karijini8.jpeg) ![w:7cm](https://visitbunburygeographe.com.au/wp-content/uploads/2018/02/Boyup-Brook.jpg)
-
----
-
-# About me
-
-- Grew up on Noongar lands (SW Western Australia and the Pilbra)
-    - Dumbleyung, Booyup Brook, Mundijong, Tom Price
-- Went to High School and University in Perth
-- PhD in Bioinformatics & Plant Genomics and a BSc (hons) in Molecular Biology. Both at Murdoch University
-
----
-
-# About me
-
-- Grew up on Noongar lands (SW Western Australia and the Pilbra)
-    - Dumbleyung, Booyup Brook, Mundijong, Tom Price
-- Went to High School and University in Perth
-- Have a PhD in Bioinformatics & Plant Genomics and a BSc (hons) in Molecular Biology
-- Postdoc at the University of Zurich
-
-![w:12cm](https://upload.wikimedia.org/wikipedia/commons/9/9f/Z%C3%BCrich_-_Weinegg_Botanischer_Garten_IMG_1863.jpg) ![w:11cm](https://media.istockphoto.com/photos/view-from-mt-uetliberg-in-switzerland-in-springtime-picture-id940792146?k=20&m=940792146&s=612x612&w=0&h=7R_zNLILzEEj7E1aPGYNApr8vXBaHN7Q6BAOORRCDy0=)
-
----
-
-# Previously life'(s)
-
-
-
----
-
-
-# Current life
-## Black Ochre Data Labs
-
-![width:15cm bg left](./figures/group1.jpg)
-
-- Public Health & Bioinformatics group
-- Based in Adelaide & Perth
-- Focused on: 
-    - Developing Precision Health approaches for Aboriginal and Torres Strait Islanders
-    - Complex diseases that impact Indigenous Australians, including Type 2 Diabetes, Cardiovascular Disease, Chronic/Diabetic Kidney Disease
 
 ---
 
