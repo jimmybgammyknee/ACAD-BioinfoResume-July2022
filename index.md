@@ -226,16 +226,24 @@ _A bioinformatician is a specialist who combines computer science into the area 
 
 # What CV(s) do I have?
 
-I have **three to six** different CVs as an Academic
+I have **three to six** different CVs as an <u>Academic</u>
 
 ---
 
 # What CV(s) do I have? 
-### (Academic/Core-facility roles)
+
 <br>
 
 1. Institutional website page: Gives all the basic information in regards to my current role
     - Its the first thing people see when they google me
+
+![w:20cm center](./figures/uofa-profile.png)
+
+---
+
+# What CV(s) do I have? 
+
+<br>
 
 2. Google scholar: Publication metrics
     - Usually the second thing people see when they google me
@@ -245,10 +253,10 @@ I have **three to six** different CVs as an Academic
 ---
 
 # What CV(s) do I have? 
-### (Academic/Core-facility roles)
+
 <br>
 
-3. [A public, Long-form CV that I have on my personal website](https://jimmybgammyknee.github.io/cv/): An exhaustive list of all my work achievements, including:
+4. [A public, Long-form CV that I have on my personal website](https://jimmybgammyknee.github.io/cv/): An exhaustive list of all my work achievements, including:
     - Employment history
     - Papers
     - Conference proceedings
@@ -263,12 +271,12 @@ I have **three to six** different CVs as an Academic
 
 # What CV(s) do I have?
 
-2. Short, 2-pager: The highlights which I can send to someone quickly without them getting bored
+5. Short, 2-pager: The highlights which I can send to someone quickly without them getting bored
     - Employment history
     - Papers
     - Grant funding
 
-3. [A "Biosketch"](https://grants.nih.gov/grants/forms/biosketch.htm): Required for large, collaborative research projects (NIH, MRFF, MTPConnect etc)
+6. [A "Biosketch"](https://grants.nih.gov/grants/forms/biosketch.htm): Required for large, collaborative research projects (NIH, MRFF, MTPConnect etc)
     - 2-3 pages
     - "What are your skills in the context of this grant?"
 
@@ -308,6 +316,10 @@ I have **three to six** different CVs as an Academic
 2. Run a few benchmarking tests
     - e.g. Test the speed of a new variant caller by comparing to `GATK`, `freebayes` and `samtools`
 
+
+---
+
+![w:33cm bg](./figures/github-jimmy.png)
 
 ---
 
@@ -368,7 +380,7 @@ I have **three to six** different CVs as an Academic
 
 ---
 
-# A Bioinformatics CV is part of an arsenal
+# A Bioinformatics CV is one part of an arsenal
 
 - Networking
 - Open source software contributions
