@@ -20,8 +20,8 @@ style: |
     }
     h1 {
         font-size: 45px;
-        padding: 5px;
-        margin: 4px;
+        padding: 15px;
+        margin: 2px;
     }
     h2 {
         font-size: 40px;
@@ -124,7 +124,7 @@ Australian National University
 
 ---
 
-# Why am I a good person to talk to about Bioinformatics
+# Why am I a good person to talk to about Bioinformatics?
 
 - I've worked across most employment areas
     - Academia
@@ -139,12 +139,16 @@ Australian National University
 
 ---
 
-# Why am I a good person to talk to about Bioinformatics
+# Why am I a good person to talk to about Bioinformatics?
 
 - President of ABACBS
+    - We have over 1,000 members across Australia
+    - Various sub-committees including our student sub-committee COMBINE
 - I connect with a lot of people within the industry
 - Diversity of positions and roles as a Bioinformatician
 - I get contacted by recruiters a lot
+
+![w:25cm center](./figures/abacbs%20logo%20folded.png)
 
 ---
 
