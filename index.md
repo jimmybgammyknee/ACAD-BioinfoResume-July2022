@@ -224,6 +224,23 @@ _A bioinformatician is a specialist who combines computer science into the area 
 
 ---
 
+# Bioinformatics CV/Resume
+
+---
+
+# What I look for...
+
+### Academic/Core-facility roles
+
+- Publications/Research Output
+    - Finishing papers is like finishing consulting jobs/analyses
+- Organisational skills
+- Programming proficiency 
+    - Very specific to what we need
+- Self-motivation
+
+---
+
 # What CV(s) do I have?
 
 I have **three to six** different CVs as an <u>Academic</u>
