@@ -21,7 +21,7 @@ style: |
     h1 {
         font-size: 45px;
         padding: 5px;
-        margin: 2px;
+        margin: 4px;
     }
     h2 {
         font-size: 40px;
@@ -54,7 +54,7 @@ Australian National University
 
 # About me
 
-- Grew up on Noongar Banyjima lands (SW Western Australia and the Pilbra)
+- Grew up on Noongar and Banjima lands (SW Western Australia and the Pilbra)
     - Dumbleyung, Booyup Brook, Mundijong, Tom Price
 
 ![w:10cm left](./figures/2014-jan-dry-lake-dumbleyung.jpeg) ![w:10cm ](./figures/Karijini8.jpeg) ![w:7cm](https://visitbunburygeographe.com.au/wp-content/uploads/2018/02/Boyup-Brook.jpg)
@@ -63,28 +63,21 @@ Australian National University
 
 # About me
 
-- Grew up on Noongar lands (SW Western Australia and the Pilbra)
-    - Dumbleyung, Booyup Brook, Mundijong, Tom Price
 - Went to High School and University in Perth
-- PhD in Bioinformatics & Plant Genomics and a BSc (hons) in Molecular Biology. Both at Murdoch University
+- PhD in Bioinformatics & Plant Genomics and a BSc (hons) in Molecular Biology. 
+    - Both at Murdoch University
 
----
+![w:15cm center](https://i.nextmedia.com.au/News/Murdoch_University.jpg)
 
-# About me
-
-- Grew up on Noongar lands (SW Western Australia and the Pilbra)
-    - Dumbleyung, Booyup Brook, Mundijong, Tom Price
-- Went to High School and University in Perth
-- Have a PhD in Bioinformatics & Plant Genomics and a BSc (hons) in Molecular Biology
 
 
 ---
 
 # Previously life'(s)
 
-1. Postdoc at the University of Zurich (2009-2012)
+1. Postdoc at the Institute of Plant Biology, University of Zurich (2009-2012)
 
-![w:12cm](https://upload.wikimedia.org/wikipedia/commons/9/9f/Z%C3%BCrich_-_Weinegg_Botanischer_Garten_IMG_1863.jpg) ![w:11cm](https://media.istockphoto.com/photos/view-from-mt-uetliberg-in-switzerland-in-springtime-picture-id940792146?k=20&m=940792146&s=612x612&w=0&h=7R_zNLILzEEj7E1aPGYNApr8vXBaHN7Q6BAOORRCDy0=)
+![w:15cm](https://upload.wikimedia.org/wikipedia/commons/9/9f/Z%C3%BCrich_-_Weinegg_Botanischer_Garten_IMG_1863.jpg) ![w:14cm](https://media.istockphoto.com/photos/view-from-mt-uetliberg-in-switzerland-in-springtime-picture-id940792146?k=20&m=940792146&s=612x612&w=0&h=7R_zNLILzEEj7E1aPGYNApr8vXBaHN7Q6BAOORRCDy0=)
 
 ---
 
@@ -94,7 +87,7 @@ Australian National University
     - Australian Genome Research Facility (AGRF), Brisbane
     - Primarily early Illumina and 454 QC
 
-3. Postdoc at ACAD! (2013-16)
+3. Postdoc at ACAD in Ancient Plant DNA (2013-16)
 
 ![w:12cm bg left](./figures/IMG_2645.png)
 
@@ -109,6 +102,9 @@ Australian National University
 5. SAHMRI & Faculty of Health & Medical Sciences Bioinformatics group leader (2018-2019)
 
 6. SAGC Bioinformatics Lead (2019-2021)
+
+![h:5cm](./figures/rri.jpeg) ![h:5cm](https://www.awri.com.au/wp-content/uploads/2021/02/sagc-300px.png)
+
 
 ---
 
@@ -125,42 +121,6 @@ Australian National University
 
 ![w:40cm](https://pbs.twimg.com/media/FXC2y0taIAA29mE?format=jpg&name=4096x4096)
 
----
-
-# The Team
-
-<div class="columns">
-<div>
-
-### Black Ochre Data Labs
-- Alex Brown
-- Bastien Llamas
-- Sam Buckberry
-- Holly Martin
-- Kaashifah Bruce
-- Louise Lyons
-- Rebecca Simpson
-- Sam Godwin
-- Yassine Souilmi
-- Stephen Pederson
-
-</div>
-<div>
-
-### SAHMRI
-- Natasha Howard
-- Anelle Du Preez
-
-### NCIG
-- Azure Hermes
-- Hardip Patel
-
-![w:4cm h:3cm](https://www.telethonkids.org.au/globalassets/media/images/type-of-image/logos/tki-logo-large.jpg) ![w:5cm  h:4cm](https://brandonbiocatalyst.com/wp-content/uploads/2019/07/33.JCSMR-lock-up-e1562660623739.jpg) 
-
-</div>
-</div>
-
-<!-- footer: "" -->
 
 ---
 
@@ -182,6 +142,9 @@ Australian National University
 # Why am I a good person to talk to about Bioinformatics
 
 - President of ABACBS
+- I connect with a lot of people within the industry
+- Diversity of positions and roles as a Bioinformatician
+- I get contacted by recruiters a lot
 
 ---
 
@@ -200,6 +163,8 @@ _A bioinformatician is a specialist who combines computer science into the area 
 - Core-facility/consulting
     - Probably has a MSc/MPhil in Computer Science, Statistics or Biology
 - Informatics/System Administration
+    - Probably has a BSc in Computer Science
+- DevOps
     - Probably has a BSc in Computer Science
 - Software development
     - Probably has a BSc in Computer Science
@@ -295,10 +260,19 @@ I have **three to six** different CVs as an Academic
 # What CV(s) do I have?
 
 2. Short, 2-pager: The highlights which I can send to someone quickly without them getting bored
+    - Employment history
+    - Papers
+    - Grant funding
+
+3. [A "Biosketch"](https://grants.nih.gov/grants/forms/biosketch.htm): Required for large, collaborative research projects (NIH, MRFF, MTPConnect etc)
+    - 2-3 pages
+    - "What are your skills in the context of this grant?"
 
 ---
 
 # Tips
+
+### _(Admittedly biased towards research roles)_
 
 ---
 
@@ -315,6 +289,8 @@ I have **three to six** different CVs as an Academic
 ---
 
 # NOBODY CARES THAT YOUR CODE IS SHIT
+
+<!-- footer: "" -->
 
 ---
 
@@ -355,12 +331,40 @@ I have **three to six** different CVs as an Academic
 
 # 4. If you like an open position, work for it
 
-- Contact
-
+- Contact the responsible person on the job ad, introduce yourself and ask a question
+- Investigate the company or position thoroughly
 
 ---
 
-# 4. A Bioinformatics CV is part of an arsenal
+# 5. Use LinkedIn
+
+- Recruiters use it
+- Expand your network
+- Don't be shy
+
+---
+
+# Recent advice from a Data Science recruiter
+
+- Academics often struggle to convince employers that they can adapt to a fast-paced environment, working on small problems on defined timelines
+- Data Science jobs are roughly 30% R and 70% python programming
+- Start with an end in mind:
+    - Investigate what area you want to transition to and then develop skills required for the area
+    - Work hard to tie experience to tasks that are common within the target industry
+
+---
+
+# Recent advice from a Data Science recruiter
+
+- [Kaggle (https://www.kaggle.com/)](https://www.kaggle.com/) competitions are a great way of demonstrating your abilities
+    - Cash prizes on offer
+    - Rankings can be used on CVs to demonstrate skills in the area
+
+![w:15cm center](https://i0.wp.com/ivanocampo.com/wp-content/uploads/2022/02/maxresdefault-1024x576.jpg?resize=1024%2C576)
+
+---
+
+# A Bioinformatics CV is part of an arsenal
 
 - Networking
 - Open source software contributions
