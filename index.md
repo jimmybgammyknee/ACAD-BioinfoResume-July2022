@@ -41,7 +41,7 @@ style: |
     
 ---
 
-# **Developing a Precision Medicine framework for Indigenous Australians**
+# **CVs For Bioinformatics Jobs **
 
 ## Jimmy Breen 
 
